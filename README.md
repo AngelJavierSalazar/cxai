@@ -12,8 +12,8 @@ The overriding question is how can data scientits ensure that they are doing all
 
 Without dweling too much on marketing theoy, data scientists need a minimum subject knowledge to be able to answer the questions below in order to develop and deploy useful machine learning models:
  
-What are customer segments? Why are they important for maximising sales?
-What is the customer value lifecycle? Why is it important?
+What are the key customer segments? Why are they important for maximising sales?
+What is their customer value lifecycle? Why is it important?
 What is a customer experience journey? How does it relate to the experience journey?
 What are the key challenges and important decisions that managers need to take into consideration at each stage of the customer journey and value lifecycle, e.g, which customers would respond to our adverts and promotions, which customers are not satisfied and likely to leave, what products are they likely to purchase, are they likely to repeat their purchases?
 What data do businesses need to gather, transform and inject into their machine learning models? 
