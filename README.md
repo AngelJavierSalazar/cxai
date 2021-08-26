@@ -8,7 +8,7 @@ I am working on the 'Full-Stack Customer Learning eXperience and Analytics' fram
  
 This repository gives a summary of core concepts and techniques for analysing and automating customer experience and customer value within a commercial or business context.
  
-The overriding question is how can data scientits ensure that they are doing all things necessary to support the business and serve their customer better.
+The overriding question is how can data scientists ensure that they are doing all things necessary to support the business and serve their customer better.
 
 Without dweling too much on marketing theoy, data scientists need a minimum subject knowledge to be able to answer the questions below in order to develop and deploy useful machine learning models:
  
