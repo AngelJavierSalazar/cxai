@@ -24,6 +24,6 @@ How should machine learning models be maintained and extended?
 What parts of the data analytics lifecycle can be automated to ensure cost-effective operations?
  
 
-
+Folders with marketing analytics applications to follow shortly ...
 
 
