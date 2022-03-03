@@ -36,6 +36,9 @@ How should machine learning models be maintained and extended?
 
 What parts of the data analytics lifecycle can be automated to ensure cost-effective operations?
  
+The intention of the questions above is to trigger reflection and analysis.
+
+The framework intends to provide a clear structure and approach to customer-centric marketing analytics using data science and machine learning techniques.
 
 Folders with marketing analytics applications to follow shortly ...
 
