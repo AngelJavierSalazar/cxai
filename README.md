@@ -6,7 +6,7 @@ Author: Dr Angel Javier Salazar
 
 Folliowing a career as a technology and data analytics lecturer at business schools, I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework.
  
-This repository gives a summary of core concepts and techniques for analysing and automating customer experience and customer value within a commercial or business context.
+This repository will provide a summary of core concepts and techniques for analysing and automating customer experience and customer value within a commercial or business context.
  
 The overriding question is how can data scientists ensure that they are doing all things necessary to support the business and serve their customer better.
 
