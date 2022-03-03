@@ -4,7 +4,7 @@
 
 Author: Dr Angel Javier Salazar
 
-I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework.
+Folliowing a career as a technology and data analytics lecturer at business schools, I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework.
  
 This repository gives a summary of core concepts and techniques for analysing and automating customer experience and customer value within a commercial or business context.
  
