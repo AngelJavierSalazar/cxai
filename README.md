@@ -4,8 +4,14 @@
 
 Author: Dr Angel Javier Salazar
 
-Folliowing a career as a technology and data analytics lecturer at business schools, I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework.
+Short bio: 
+
+Folliowing a career as a lecturer at business schools, that included working in business intelligence and predictive marketing analytics, I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework. I have overseen projects including e-commerce, operations and logistics, and marketing strategy, comms and analytics. I am versed and also have developed new training on customer analytics, using tools such as Excel, PowerBI, SQL, Python, and R, performing a range of analyses; see below applications.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
  
+
 This repository will provide a summary of core concepts and techniques for analysing and automating customer experience and customer value within a commercial or business context.
  
 The overriding question is how can data scientists ensure that they are doing all things necessary to support the business and serve their customer better.
@@ -36,6 +42,10 @@ How should machine learning models be maintained and extended?
 
 What parts of the data analytics lifecycle can be automated to ensure cost-effective operations?
  
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 The intention of the questions above is to trigger reflection and analysis.
 
 The framework intends to provide a clear structure and approach to customer-centric marketing analytics using data science and machine learning techniques.
