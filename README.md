@@ -4,7 +4,7 @@
 
 Author: Dr Angel Javier Salazar
 
-I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework, which is an extension of DATAWorkout's CLX 4.0 (TM pending).
+I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework.
  
 This repository gives a summary of core concepts and techniques for analysing and automating customer experience and customer value within a commercial or business context.
  
