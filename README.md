@@ -1,15 +1,15 @@
 # cxai
 
-## Full-Stack Customer Learning eXperience and Analytics 
+## Full-Stack Customer eXperience Analytics 
 
-Author: Dr Angel Javier Salazar
+Author: Dr Angel Salazar
 
 Short bio: 
 
-Folliowing a career as a lecturer at business schools, that included working in business intelligence and predictive marketing analytics, I am working on the 'Full-Stack Customer Learning eXperience and Analytics' framework. I have overseen projects including e-commerce, operations and logistics, and marketing strategy, comms and analytics. I am versed and also have developed new training on customer analytics, using tools such as Excel, PowerBI, SQL, Python, and R, performing a range of analyses. These include multi-variate regression and econometric methods:
+Folliowing a career as a lecturer at business schools, that included working in business intelligence and predictive marketing analytics, I am working on the 'Full-Stack Customer eXperience Analytics' framework. I have overseen projects including e-commerce, operations and logistics, and marketing strategy, comms and analytics. I have developed new training on customer analytics, using tools such as Excel, PowerBI, Python and Pandas, performing a range of analyses. These include multi-variate regression and econometric methods:
 
  - Customer segmentation using personas, K-means clustering, product recommender systems, basket analysis, likelihood of purchase and churn, lifetime value, and marketing mix analysis.
- - Multivariate regression modelling, demand analysis and choice modelling, and econometric methods applied to the digital economy.
+ - Multivariate regression modelling, demand analysis and choice modelling, and econometric methods.
 
 
 
@@ -47,13 +47,10 @@ How should machine learning models be maintained and extended?
 What parts of the data analytics lifecycle can be automated to ensure cost-effective operations?
  
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-The intention of the questions above is to trigger reflection and analysis.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 The framework intends to provide a clear structure and approach to customer-centric marketing analytics using data science and machine learning techniques.
 
-Folders with marketing analytics applications to follow shortly ...
+Folders with marketing analytics coding applications to follow shortly ...
 
 
