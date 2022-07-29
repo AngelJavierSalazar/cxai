@@ -1,12 +1,12 @@
 # cxai
 
-## Full-Stack Customer eXperience Analytics 
+## Full-Stack Customer eXperience Analytics and AI
 
 Author: Dr Angel Salazar
 
 Short bio: 
 
-Folliowing a career as a lecturer at business schools, that included working in business intelligence and predictive marketing analytics, I am working on the 'Full-Stack Customer eXperience Analytics' framework. I have overseen projects including e-commerce, operations and logistics, and marketing strategy, comms and analytics. I have developed new training on customer analytics, using tools such as Excel, PowerBI, Python and Pandas, performing a range of analyses. These include multi-variate regression and econometric methods:
+Folliowing a career as a lecturer at business schools, that included working in business intelligence and predictive marketing analytics, I am working on the 'Full-Stack Customer eXperience Analytics and AI' framework. I have overseen projects including e-commerce, operations and logistics, and marketing strategy, comms and analytics. I have developed new training on customer analytics, using tools such as Excel, PowerBI, Python and Pandas, performing a range of analyses. These include multi-variate regression and econometric methods:
 
  - Customer segmentation using personas, K-means clustering, product recommender systems, basket analysis, likelihood of purchase and churn, lifetime value, and marketing mix analysis.
  - Multivariate regression modelling, demand analysis and choice modelling, and econometric methods.
